@@ -49,6 +49,9 @@
   .icons-container .icons span {
     font-size: 1.7rem;
   }
+  .contact .row .image img {
+    display: none;
+  }
 }
 @media (max-width: 450px) {
   html {
