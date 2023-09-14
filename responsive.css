@@ -51,4 +51,7 @@
   header {
     padding: 2rem;
   }
+  .heading {
+    font-size: 3rem;
+  }
 }
