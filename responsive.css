@@ -6,7 +6,14 @@
   header {
     padding: 2rem;
   }
+  section {
+    padding: 2rem;
+  }
+  .home {
+    background-position: center;
+  }
 }
+
 @media (max-width: 823px) {
   html .fa-bars {
     display: block;
@@ -29,6 +36,12 @@
     padding: 1.5rem;
     background: #fff;
     border: 0.1rem solid rgba(0, 0, 0, 0.1);
+  }
+  .home .content h3 {
+    font-size: 5rem;
+  }
+  .home .content span {
+    font-size: 2.5rem;
   }
 }
 @media (max-width: 450px) {
